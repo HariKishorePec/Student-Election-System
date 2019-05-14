@@ -1,0 +1,70 @@
+	
+* {
+   background: #1c1c1c;
+   font-family: "Secular One", serif;
+   color: #fff;
+}
+.parent{
+	text-align: center;
+}
+.container{
+	border:5px solid #343434;
+	display: inline-block;
+	
+	padding-left: 6%;
+	padding-right: 6%;
+	margin: 0 auto;
+	
+}
+h1 {
+   text-align: center;
+   font-size: 36px;
+   font-family: "Secular One", serif;
+   color: aqua;
+}
+
+a.gradient {
+   color: #65b8a6;
+   color: #fff;
+   text-decoration: none;
+}
+
+a.gradient:focus,
+a.gradient:hover {
+   background: -webkit-gradient(
+      linear,
+      left top,
+      right top,
+      from(#62a07b),
+      to(#4f8b89)
+   );
+   background: linear-gradient(to right, #62a07b, #4f8b89);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   -webkit-box-decoration-break: clone;
+   box-decoration-break: clone;
+   text-shadow: none;
+}
+a.underline {
+   color: #fff;
+}
+a.underline {
+   position: relative;
+   transition: background-color 0.5s ease;
+   -webkit-transition: background-color 0.5s ease;
+   color: #fff;
+   z-index: 1;
+   white-space: nowrap;
+}
+a.underline:hover {
+   background: #613860;
+}
+a.underline:after {
+   content: "";
+   width: 100%;
+   height: 4px;
+   background: #613860;
+   position: absolute;
+   bottom: -4px;
+   left: 0;
+   z-index: -1;
