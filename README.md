@@ -19,7 +19,7 @@
 <li>Then Voter Login -> Voter can vote. also can change their demographic details. Once voted, it cant be changed. (Of course, admin can grant permission if necessay)</li>
 <li>Admin Login - Admin can see real time voting percentage against each candidate and in last can declare the winner</li>
 </ul>
-<p>You can see its live demo deployed <a href="http://hari.joomla.com/StudentVoting/">here</a></p>
+<p>You can see its <a href="http://hari.joomla.com/StudentVoting/">live demo deployed here</a></p>
 
 ## Tools required 
 <ul>
