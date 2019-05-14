@@ -4,6 +4,7 @@
 <li>Made with Web technologies (HTML, CSS, JS and PHP).</li>
 <li>This is Student Voting System which can be used in Electing Student Leaders/ Student Representative in a class, president of students union etc. Here is a brief info about the project.</li>
 </ul>
+
 ## Roles:
 <ul>
 <li>Admin - Has access to database, and can see all students and candidate details and alter them if needed. </li>
