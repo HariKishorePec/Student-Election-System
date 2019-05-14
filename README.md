@@ -1,7 +1,7 @@
 # Student-Election-System
 <ul>
 <li>A real life online Student Election System similar to online voting system.</li>
-<li>Made with Web technologies (HTML, CSS, JS and PHP).</li>
+<li>Made with Web technologies (HTML, CSS, JS, Bootstrap and PHP).</li>
 <li>This is Student Voting System which can be used in Electing Student Leaders/ Student Representative in a class, president of students union etc. Here is a brief info about the project.</li>
 </ul>
 
