@@ -4,7 +4,7 @@
 <li>Made with Web technologies (HTML, CSS, JS, Bootstrap and PHP).</li>
 <li>This is Student Voting System which can be used in Electing Student Leaders/ Student Representative in a class, president of students union etc. Here is a brief info about the project.</li>
 </ul>
-<p>You can see its <a href="http://hari.joomla.com/StudentVoting/">live demo deployed here</a></p>
+<p>You can see its <a href="https://student-election.herokuapp.com/">live demo deployed here</a></p>
 
 ## Roles:
 <ul>
