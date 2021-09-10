@@ -36,4 +36,5 @@
 <li>Run Localhost and Enter the project folder name. The index page will start running.</li>
   </ul>
   
+<b>P.S.</b>: If you fork, please don't forget to star the repo. Thank you.
   
